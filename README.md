@@ -14,3 +14,7 @@ android/app/build/outputs/apk/release/app-release.apk
 
 签名证书路径:
 android/app/my-release-key.keystore
+
+参考文档：
+https://facebook.github.io/react-native/docs/getting-started.html
+https://reactnative.cn/docs/getting-started.html
